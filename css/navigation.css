@@ -1,7 +1,8 @@
 .menu li{
 	display: inline-block;
 	text-decoration: none;
-	border: 3px solid rgb(124, 116, 116);
+	border: 3px solid rgb(160, 179, 155);
+	border-radius: 25px;
 	border-style: outset;
 	padding: 5px;
 	background-color: #FFFFFF;
@@ -15,7 +16,7 @@
 .menu li a:hover{
 	display: block;
 	color: 	#000000;
-	background-color: #00FFFF;
+	background-color: #9fffff;
 }
 .menu .is-current{
 	background-color: #0000FF;
