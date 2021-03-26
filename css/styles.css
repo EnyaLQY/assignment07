@@ -12,25 +12,30 @@ article{
 }
 h1{
 	/*padding-left: 425px;*/
+	font-family: 'Spartan', sans-serif;
+	font-size: 50px;
 	color: red;
 	margin: 10px;
-	margin-bottom: 30px;
+	margin-bottom: 10px;
 }
 h2{
-	color: #00FFFF;
+	font-family: 'Spartan', sans-serif;
+	color: #243f7a;
 	font-style: italic;
 	font-weight: normal;
 
-	border-bottom: 1px solid #00FFFF;
-	border-right: 1px solid #2F4F4F;
-	border-left: 1px solid #00FFFF;
+	border-bottom: 3px solid #93e5e58f;
+	border-right: 1px solid #93e5e58f;
+	border-left: 1px solid #93e5e58f;
 	border-radius: 20px;
 	margin: 0px;
 	margin-bottom: 5px;
 }
 p{
 	margin-right: 15px;
-	line-height: 1.2em;
+	line-height: 1.5em;
+	font-family: 'Montserrat', sans-serif;
+	padding-bottom: 30px;
 
 }
 

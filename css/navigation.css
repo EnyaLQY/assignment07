@@ -1,11 +1,13 @@
 .menu li{
 	display: inline-block;
 	text-decoration: none;
-	border: 3px solid black;
+	border: 3px solid rgb(124, 116, 116);
 	border-style: outset;
-	/*padding: 2px;*/
+	padding: 5px;
 	background-color: #FFFFFF;
 	color: #000000;
+	margin: 5px;
+	font-family: 'Spartan', sans-serif;
 }
 .menu ul{
 	text-decoration: none;
